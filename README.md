@@ -5,7 +5,8 @@ The goal is to create a tool that simulates the measurement of a gravity gradiom
 The model allows the user to generate a mass map, in the form of a 2D array where each value corresponds to a local value of mass distribution. 
 It then calculates the gravity signal as measured by 2 sensors, separated by a distance called _baseline_ along the perpendicular direction.
 
-The model is divided in a few blocks as in figure.  
+The model is divided in a few blocks as in figure. 
+
 ![Project diagram][diagram]
 
 
